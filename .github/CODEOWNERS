@@ -1,0 +1,6 @@
+# Trial Codeowners to test review groups for specific project
+# This should cause all commits to be assigned to Rohan Kamatar unless another group supercedes
+* @kamatar2
+
+# Files modified in the 2019 folder will be assigned to this group
+2019/ @IlliniSolarCar/new-member-project-reviews
